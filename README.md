@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-- 👋 Hello_World
 - 🔭 I’m student at 42İstanbul
 - 🌱 I’m currently learning C language
 - 📫 How to reach me: ahmetyumusakdiken13@gmail.com
