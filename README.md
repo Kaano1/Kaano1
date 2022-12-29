@@ -8,7 +8,7 @@
 
 <a href="https://github.com/Kaano1/ayumusak"><img src="https://badge.mediaplus.ma/water/ayumusak?1337Badge=off&UM6P=off" alt="ayumusak's 42 stats" /></a>
 
-## Progress in Projects 🦠
+## Progress in Projects 🌟🌟🌟
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../Libft)                  | ✅111  |   | 9   | [minishell](../../../Minishell)                                 | 📝     |   | 19  | CPP Module 07                               | 🔒     |
