@@ -23,3 +23,5 @@
 | 7   | [push_swap](../../../Push_swap)          | ✅84   |   | 16  | CPP Module 04                               | 🔒     |   | E6  | Exam_6                                      | 🔒     |
 | E2  | [Exam_2]                   | ✅100    |   | 17  | CPP Module 05                               | 🔒     |
 | 8   | [Philosphers](../../../Philo)                               | ✅100     |   | 18  | CPP Module 06                               | 🔒     |
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kaano1&label=Profile%20views&color=blueviolet&style=flat" alt="Kaano1" /> </p>  
