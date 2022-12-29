@@ -11,7 +11,7 @@
 ## Progress in Projects 🦠
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](../../../Libft)                  | ✅111  |   | 9   | [minishell](../../Minishell)                                 | 📝     |   | 19  | CPP Module 07                               | 🔒     |
+| 1   | [Libft](../../../Libft)                  | ✅111  |   | 9   | [minishell](../../../Minishell)                                 | 📝     |   | 19  | CPP Module 07                               | 🔒     |
 | 2   | [ft_printf](../../../Ft_printf)          | ✅100  |   | E3  | Exam_3                                      | ✅100     |   | 20  | CPP Module 08                               | 🔒     |
 | 3   | [get_next_line](../../../Get_next_line)  | ✅125  |   | 10  | NetPractice                                 | 🔒     |   | E4  | Exam_4                                      | 🔒     |
 | 4   | [Born2beroot]      | ✅100  |   | 11.1| cub3d                                       | 🔒     |   | 21  | ft_containers                               | 🔒     |
