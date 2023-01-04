@@ -1,6 +1,19 @@
 ### Hi, I'm Kaan 👋
 <h3 align="center"> I am a student in Ecole 42</h3>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clci365sk00160gla37ebl0v4/stats?cursusId=21&coalitionId=230" alt="ayumusak's 42 stats" height=250 width="3500"/></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clci365sk00160gla37ebl0v4/stats?cursusId=21&coalitionId=230" alt="ayumusak's 42 stats" height=250 width="1000"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmet-kaan-yumu%C5%9Fakdiken-225100236/" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedinayumusak" />
+  </a>
+
+  <a href="https://www.instagram.com/_ayumusak_/" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="medium ayumusak" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/ahmetyumusakdik1?hr_r=1" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="35" alt="hackerrankayumusak" />
+  </a>
+</p>
 
 ## Progress in Projects 🌟🌟🌟
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
