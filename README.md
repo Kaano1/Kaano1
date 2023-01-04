@@ -1,12 +1,6 @@
-### Hi there, I'm Kaan 👋
-
-- 🔭 I’m student at 42İstanbul
-- 🌱 I’m currently learning C language
-- 📫 How to reach me: ahmetyumusakdiken13@gmail.com
--->
-
-
-<a href="https://github.com/Kaano1/ayumusak"><img src="https://badge.mediaplus.ma/water/ayumusak?1337Badge=off&UM6P=off" alt="ayumusak's 42 stats" /></a>
+### Hi, I'm Kaan 👋
+<h3 align="center"> I am a student in Ecole 42</h3>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clci365sk00160gla37ebl0v4/stats?cursusId=21&coalitionId=230" alt="ayumusak's 42 stats" height=250 width="3500"/></a>
 
 ## Progress in Projects 🌟🌟🌟
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
@@ -23,5 +17,15 @@
 | 7   | [push_swap](../../../Push_swap)          | ✅84   |   | 16  | CPP Module 04                               | 🔒     |   | E6  | Exam_6                                      | 🔒     |
 | E2  | Exam_2                   | ✅100    |   | 17  | CPP Module 05                               | 🔒     |
 | 8   | [Philosphers](../../../Philo)                               | ✅100     |   | 18  | CPP Module 06                               | 🔒     |
+
+<details>
+<summary>Status</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Kaano1&theme=tokyonight" >
+</details>
+
+<details>
+<summary>Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaano1&layout=radical" >
+</details>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kaano1&label=Profile%20views&color=blueviolet&style=flat" alt="Kaano1" /> </p>  
