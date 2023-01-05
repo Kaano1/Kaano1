@@ -6,13 +6,17 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedinayumusak" />
   </a>
 
+  </a>
+  <a href="https://open.spotify.com/user/31r4w5ki7ekla363srfpay3s7dom?si=788142c971ed489e" target="blank">
+    <img src="https://www.scdn.co/i/_global/open-graph-default.png" width="52" alt="spotifyayumusak" />
+  </a>
+  
   <a href="https://www.instagram.com/_ayumusak_/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="medium ayumusak" />
   </a>
   
   <a href="https://www.hackerrank.com/ahmetyumusakdik1?hr_r=1" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="35" alt="hackerrankayumusak" />
-  </a>
 </p>
 
 ## Progress in Projects 🌟🌟🌟
