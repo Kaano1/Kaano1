@@ -17,6 +17,9 @@
   
   <a href="https://www.hackerrank.com/ahmetyumusakdik1?hr_r=1" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="35" alt="hackerrankayumusak" />
+
+  <a href="https://leetcode.com/ahmetyumusakdiken13/" target="blank">
+    <img src="https://miro.medium.com/max/1400/0*MRBGy-Gjd9PRl_HS.jpeg" width="66" alt="leetcodeKaano1" />
 </p>
 
 ## Progress in Projects 🌟🌟🌟
