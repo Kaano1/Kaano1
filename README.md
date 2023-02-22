@@ -15,6 +15,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="medium ayumusak" />
   </a>
   
+  <a href="https://twitter.com/Ahmet05319" target="blank">
+    <img src="https://globalventuring.com//content/uploads/2022/10/Twitter-horizontal.jpeg" width="55" alt="medium ayumusak" />
+  </a>
+  
   <a href="https://www.hackerrank.com/ahmetyumusakdik1?hr_r=1" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="35" alt="hackerrankayumusak" />
 
