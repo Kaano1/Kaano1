@@ -36,8 +36,8 @@
 | 5.1 | [so_long](../../../So_long)              | ✅100  |   | 11.2| miniRT                                      | 🔒     |   | 22  | Inception                                   | 🔒     |
 | 5.2 | FdF                                         | 🔒     |   | 12  | [CPP Module 00](../../../CPP)                               | ✅80     |   | 23.1| webserv                                     | 🔒     |
 | 5.3 | fract-ol                                    | 🔒     |   | 13  | [CPP Module 01](../../../CPP)                               | ✅100     |   | 23.2| ft_irc                                      | 🔒     |
-| 6.1 | [minitalk](../../../Minitalk)            | ✅100  |   | 14  | [CPP Module 02](../../../CPP)                               | 📝     |   | E5  | Exam_5                                      | 🔒     |
-| 6.2 | pipex                                       | 🔒     |   | 15  | [CPP Module 03](../../../CPP)                               | 📝     |   | 24  | ft_transcendence                            | 🔒     |
+| 6.1 | [minitalk](../../../Minitalk)            | ✅100  |   | 14  | [CPP Module 02](../../../CPP)                               | ✅80     |   | E5  | Exam_5                                      | 🔒     |
+| 6.2 | pipex                                       | 🔒     |   | 15  | [CPP Module 03](../../../CPP)                               | ✅100     |   | 24  | ft_transcendence                            | 🔒     |
 | 7   | [push_swap](../../../Push_swap)          | ✅84   |   | 16  | [CPP Module 04](../../../CPP)                               | 📝     |   | E6  | Exam_6                                      | 🔒     |
 | E2  | Exam_2                   | ✅100    |   | 17  | [CPP Module 05](../../../CPP)                               | 📝     |
 | 8   | [Philosphers](../../../Philo)                               | ✅100     |   | 18  | [CPP Module 06](../../../CPP)                               | 📝     |
