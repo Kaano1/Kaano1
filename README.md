@@ -30,7 +30,7 @@
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../Libft)                  | ✅111  |   | 9   | [minishell](../../../Minishell)                                 | ✅100     |   | 19  | [CPP Module 07](../../../CPP)                               | 📝     |
-| 2   | [ft_printf](../../../Ft_printf)          | ✅100  |   | E3  | Exam_3                                      | ✅100     |   | 20  | [CPP Module 08](../../../CPP)                               | 📝     |
+| 2   | [ft_printf](../../../Ft_printf)          | ✅100  |   | E3  | [Exam_3](../../../42-Exam-Rank-3)                                      | ✅100     |   | 20  | [CPP Module 08](../../../CPP)                               | 📝     |
 | 3   | [get_next_line](../../../Get_next_line)  | ✅125  |   | 10  | [NetPractice](../../../NetPractice)                                 | ✅100     |   | E4  | [Exam_4](../../../Exam04)                                      | ✅100     |
 | 4   | Born2beroot      | ✅100  |   | 11.1| [Cub3D](../../../Cub_3D)                                       | 📝     |   | 21  | [CPP Module 09](../../../CPP)                               | 🔒     |
 | 5.1 | [so_long](../../../So_long)              | ✅100  |   | 11.2| miniRT                                      | 🔒     |   | 22  | Inception                                   | 🔒     |
