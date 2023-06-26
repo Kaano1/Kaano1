@@ -49,7 +49,9 @@
 
 <details>
 <summary>Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaano1&layout=radical" >
+
+  [![Apoorv's github && 42 stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kaano1&layout=compact&theme=radical)](https://github.com/Kaano1)
+>
 </details>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kaano1&label=Profile%20views&color=blueviolet&style=flat" alt="Kaano1" /> </p>  
