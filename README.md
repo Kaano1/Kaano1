@@ -14,7 +14,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="medium ayumusak" />
   </a>
   
-  <a href="https://twitter.com/Ahmet05319" target="blank">
+  <a href="https://twitter.com/_AhmetYdk" target="blank">
     <img src="https://globalventuring.com//content/uploads/2022/10/Twitter-horizontal.jpeg" width="55" alt="medium ayumusak" />
   </a>
   
