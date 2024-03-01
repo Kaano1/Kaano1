@@ -2,7 +2,7 @@
 <h3 align="center"> I am a student in Ecole 42</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmet-kaan-yumu%C5%9Fakdiken-225100236/" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   </a>
